@@ -1,0 +1,12 @@
+{
+  "name": "blog-project",
+  "version": "1.0.0",
+  "description": "\"blog project rowad coding academy\"",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
